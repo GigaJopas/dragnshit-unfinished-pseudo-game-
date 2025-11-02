@@ -1,4 +1,4 @@
-# dragnshit-unfinished-pseudo-game-
+# Dragngsth EARLY ALPHA
 Grey box with a guy and a some buttons. Still working on it.
 
 Circle button - clear clones
@@ -9,10 +9,12 @@ Button 2 - running away (from cursor) movement
 
 Button 3 - running towards (cursor) movement
 
-Button 4 - random movement (can be used with 2 and 3)
+Button 4 - random movement (compatible with other move-types)
 
-Slider - speed
+Slider - change movespeed
 
-Button 5 - spinning
+Button 5 - sprite spinning
 
-Switch - skin
+Switch - switch skin
+
+Buton 6 - sliding (compatible with other move-types)
