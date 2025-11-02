@@ -1,4 +1,4 @@
-# dragnshit-unfinished-pseudo-game-
+# Dragngsth EARLY ALPHA
 Grey box with a guy and a some buttons. Still working on it.
 
 Circle button - clear clones
